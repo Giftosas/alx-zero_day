@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 mkdir up_to_date
 git pull
 
+=======
+git pull
+>>>>>>> c0b83a5e982d8c1b9a6849205210f92632b31d6e
